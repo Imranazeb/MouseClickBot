@@ -6,8 +6,8 @@ import os
 
 os.system('cls')
 random_pause = random.randint(3*60, 5*60)
-shift_start = 9
-shift_end = 21
+shift_start = 7
+shift_end = 16
 shift_continues = True
 mouse_target_x = pg.position().x
 mouse_target_y = pg.position().y
