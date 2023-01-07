@@ -1,4 +1,4 @@
-<h1> Mouse Click Bot</h1>
+# __bold__ Mouse Click Bot
 
 This program will emulate at random time intervals mouse clicks on a specified location on the screen. 
 
