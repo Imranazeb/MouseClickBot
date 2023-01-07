@@ -6,9 +6,9 @@ Download the zip file and unpack the contents into a folder, then click on main.
 
 **IMPORTANT:** At first download your anti-virus will categorize this program as a risk because it is a script. ***It will need to be marked safe and added to antivirus exceptions.*** (This needs to be done only once.) Rest assured this is not a virus and source code can be accessed [here](https://github.com/Imranazeb/MouseClickBot/blob/master/main.py) 
 
-Intended for PC only. For personnal and educational purposes only. Please review [license](https://github.com/Imranazeb/MouseClickBot/blob/master/LICENSE.md). 
+Intended for PC only. For personnal and educational purposes only. Please review [license](https://github.com/Imranazeb/MouseClickBot/blob/master/License.md). 
 
 ## LINK TO ZIP FILE:
 
-I accept [license](https://github.com/Imranazeb/MouseClickBot/blob/master/LICENSE.md) agreement by clicking [DOWNLOAD](https://github.com/Imranazeb/MouseClickBot/files/10366875/main.zip)
+I accept [license](https://github.com/Imranazeb/MouseClickBot/blob/master/License.md) agreement by clicking [DOWNLOAD](https://github.com/Imranazeb/MouseClickBot/files/10366875/main.zip)
 
