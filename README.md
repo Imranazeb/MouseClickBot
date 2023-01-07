@@ -10,5 +10,5 @@ Intended for PC only. For personnal and educational purposes only. Please review
 
 ## LINK TO ZIP FILE:
 
-You accept license agreement by clicking [DOWNLOAD](https://github.com/Imranazeb/MouseClickBot/files/10366875/main.zip)
+I accept [license](https://github.com/Imranazeb/MouseClickBot/blob/master/LICENSE) agreement by clicking [DOWNLOAD](https://github.com/Imranazeb/MouseClickBot/files/10366875/main.zip)
 
