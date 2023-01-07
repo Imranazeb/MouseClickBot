@@ -1,3 +1,5 @@
+<h1> Mouse Click Bot</h1>
+
 This program will emulate at random time intervals mouse clicks on a specified location on the screen. 
 
 LINK TO ZIP FILE:
