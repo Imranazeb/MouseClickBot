@@ -3,6 +3,7 @@ import random
 import time
 import datetime as dt
 import os
+from sys import exit
 
 os.system('cls')
 shift_is_on = True
