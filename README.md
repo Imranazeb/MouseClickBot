@@ -1,4 +1,4 @@
-# __bold__ Mouse Click Bot
+# __Mouse Click Bot__
 
 This program will emulate at random time intervals mouse clicks on a specified location on the screen. 
 
