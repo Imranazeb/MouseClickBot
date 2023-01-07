@@ -8,6 +8,6 @@ Download the zip file and unpack the contents into a folder, then click on main.
 
 
 ## LINK TO ZIP FILE:
-```
-[https://github.com/Imranazeb/MouseClickBot/files/10366875/main.zip](https://github.com/Imranazeb/MouseClickBot/files/10366875/main.zip)
-```
+
+[DOWNLOAD](https://github.com/Imranazeb/MouseClickBot/files/10366875/main.zip)
+
