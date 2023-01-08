@@ -12,7 +12,7 @@ Place the mouse cursor where you would like clicks to be emulated. The program w
 ___
 ### PLATFORM AND PURPOSE:
 Intended for PC only. For personal and educational purposes only. Please review [license](https://github.com/Imranazeb/MouseClickBot/blob/master/License.md). 
-
+___
 ## LINK TO ZIP FILE:
 
 I accept [license](https://github.com/Imranazeb/MouseClickBot/blob/master/License.md) agreement by clicking [DOWNLOAD](https://github.com/Imranazeb/MouseClickBot/files/10367474/main.zip)
