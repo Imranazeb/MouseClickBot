@@ -55,7 +55,7 @@ while shift_is_on:
         time_left = shift_end - current_time_hour
         os.system('cls')
         var_annouce = (
-            f"You have {time_left} hours to go!\n Press control C within this window to exit.\n")
+            f"You have {time_left} hours to go!\n Minimize window to keep running.\n Close to exit.")
         time_remaining(random_pause, var_annouce)
     else:
         os.system('cls')
